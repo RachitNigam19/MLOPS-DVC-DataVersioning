@@ -8,7 +8,7 @@ data = {
     'City': ['Noida', 'Surat', 'Vadodara']
 }
 
-df = pd.DataFrame(df)
+df = pd.DataFrame(data)
 
 # adding new data to df for v2
 #new_row_loc = {'Name': 'GF1', 'Age': 20, 'City': 'Noida'}
